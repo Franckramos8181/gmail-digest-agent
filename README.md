@@ -20,7 +20,6 @@ Scans unread Gmail (headers + snippets), classifies important messages with **Ki
 ## Setup
 
 ```powershell
-cd d:\Projects\Franck\gmail-digest-agent
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
